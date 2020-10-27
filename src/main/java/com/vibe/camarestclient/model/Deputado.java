@@ -11,7 +11,7 @@ public class Deputado {
 
 	private Long id;
 	private String nome;
-	private Integer idLegislatura;
+	private Long idLegislatura;
 	
 	private String escolaridade;
 	private String sexo;
