@@ -1,5 +1,5 @@
 # Desafio-vibe-camara
-
+Webservice que consome api da câmara dos deputados federal.</br>
 Projeto desenvolvido com Java JDK 13 no Windows 10.</br>
 Setar JAVA_HOME nas variáveis de ambiente
 
